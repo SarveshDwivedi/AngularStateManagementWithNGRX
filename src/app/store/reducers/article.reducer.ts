@@ -6,7 +6,7 @@ const initialState: Array<Article> = [
   {
     id: '1',
     title: 'Angular State Management with NgRx',
-    author: 'Chameera Dulanga',
+    author: 'Sarvesh Dwivedi',
     publisher: 'SyncFusion',
   },
 ];
